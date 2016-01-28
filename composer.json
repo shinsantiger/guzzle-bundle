@@ -35,6 +35,7 @@
         "symfony/yaml": "~2.2",
         "symfony/monolog-bundle": "~2.8",
         "jms/serializer-bundle": "~0.11"
+        
     },
     "autoload": {
         "psr-4": {
